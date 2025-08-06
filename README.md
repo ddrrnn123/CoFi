@@ -1,6 +1,6 @@
 # CoFi: A Fast Coarse-to-Fine Few-Shot Pipeline for GBM Segmentation
 
-![workflow](Figure/workflow.png)
+![workflow](Figure/architecture.png)
 
 > Official implementation of **CoFi**, our paper on glomerular basement membrane (GBM) segmentation using a lightweight few-shot model and SAM2-based refinement.  
 > 🔬 Fast, accurate, and annotation-efficient segmentation for grayscale EM images.
